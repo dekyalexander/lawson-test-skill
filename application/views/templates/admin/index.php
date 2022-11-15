@@ -1,0 +1,1 @@
+<h1>Selamat Datang Di Aplikasi Lawson, Anda Login Sebagai <?php echo $title; ?></h1>
